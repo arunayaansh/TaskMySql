@@ -6,7 +6,7 @@ public class MyJDBC {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/Task";
         String user = "root";
-        String password = "arun@1234";
+        String password = "removed for privacy";
 
         String insertQuery = "INSERT INTO employee (empcode, empname, empage, esalary) VALUES (?, ?, ?, ?)";
 
